@@ -1,0 +1,6 @@
+F:\Scuola\Informatica\C#\P66N6\P66N6\bin\Debug\P66N6.exe.config
+F:\Scuola\Informatica\C#\P66N6\P66N6\bin\Debug\P66N6.exe
+F:\Scuola\Informatica\C#\P66N6\P66N6\bin\Debug\P66N6.pdb
+F:\Scuola\Informatica\C#\P66N6\P66N6\obj\Debug\P66N6.exe
+F:\Scuola\Informatica\C#\P66N6\P66N6\obj\Debug\P66N6.pdb
+F:\Scuola\Informatica\C#\P66N6\P66N6\obj\Debug\P66N6.csprojAssemblyReference.cache

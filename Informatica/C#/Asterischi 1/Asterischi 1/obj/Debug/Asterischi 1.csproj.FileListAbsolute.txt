@@ -1,0 +1,5 @@
+D:\Scuola\Informatica\C#\Asterischi 1\Asterischi 1\bin\Debug\Asterischi 1.exe.config
+D:\Scuola\Informatica\C#\Asterischi 1\Asterischi 1\bin\Debug\Asterischi 1.exe
+D:\Scuola\Informatica\C#\Asterischi 1\Asterischi 1\bin\Debug\Asterischi 1.pdb
+D:\Scuola\Informatica\C#\Asterischi 1\Asterischi 1\obj\Debug\Asterischi 1.exe
+D:\Scuola\Informatica\C#\Asterischi 1\Asterischi 1\obj\Debug\Asterischi 1.pdb

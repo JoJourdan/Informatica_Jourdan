@@ -1,0 +1,7 @@
+F:\Scuola\Informatica\C#\P52N32\P52N32\bin\Debug\P52N32.exe.config
+F:\Scuola\Informatica\C#\P52N32\P52N32\bin\Debug\P52N32.exe
+F:\Scuola\Informatica\C#\P52N32\P52N32\bin\Debug\P52N32.pdb
+F:\Scuola\Informatica\C#\P52N32\P52N32\obj\Debug\P52N32.csproj.CoreCompileInputs.cache
+F:\Scuola\Informatica\C#\P52N32\P52N32\obj\Debug\P52N32.exe
+F:\Scuola\Informatica\C#\P52N32\P52N32\obj\Debug\P52N32.pdb
+F:\Scuola\Informatica\C#\P52N32\P52N32\obj\Debug\P52N32.csproj.AssemblyReference.cache

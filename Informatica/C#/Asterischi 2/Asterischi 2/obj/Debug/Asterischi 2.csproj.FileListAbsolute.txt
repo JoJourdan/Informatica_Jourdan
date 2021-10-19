@@ -1,0 +1,7 @@
+F:\Scuola\Informatica\C#\Asterischi 2\Asterischi 2\bin\Debug\Asterischi 2.exe.config
+F:\Scuola\Informatica\C#\Asterischi 2\Asterischi 2\bin\Debug\Asterischi 2.exe
+F:\Scuola\Informatica\C#\Asterischi 2\Asterischi 2\bin\Debug\Asterischi 2.pdb
+F:\Scuola\Informatica\C#\Asterischi 2\Asterischi 2\obj\Debug\Asterischi 2.csproj.AssemblyReference.cache
+F:\Scuola\Informatica\C#\Asterischi 2\Asterischi 2\obj\Debug\Asterischi 2.csproj.CoreCompileInputs.cache
+F:\Scuola\Informatica\C#\Asterischi 2\Asterischi 2\obj\Debug\Asterischi 2.exe
+F:\Scuola\Informatica\C#\Asterischi 2\Asterischi 2\obj\Debug\Asterischi 2.pdb

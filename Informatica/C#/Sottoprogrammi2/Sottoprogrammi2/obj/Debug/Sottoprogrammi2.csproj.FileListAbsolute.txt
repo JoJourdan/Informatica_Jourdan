@@ -1,0 +1,5 @@
+D:\Scuola\Informatica\C#\Sottoprogrammi2\Sottoprogrammi2\bin\Debug\Sottoprogrammi2.exe.config
+D:\Scuola\Informatica\C#\Sottoprogrammi2\Sottoprogrammi2\bin\Debug\Sottoprogrammi2.exe
+D:\Scuola\Informatica\C#\Sottoprogrammi2\Sottoprogrammi2\bin\Debug\Sottoprogrammi2.pdb
+D:\Scuola\Informatica\C#\Sottoprogrammi2\Sottoprogrammi2\obj\Debug\Sottoprogrammi2.exe
+D:\Scuola\Informatica\C#\Sottoprogrammi2\Sottoprogrammi2\obj\Debug\Sottoprogrammi2.pdb

@@ -1,0 +1,5 @@
+E:\Scuola\Informatica\C#\P52N39\P52N39\bin\Debug\P52N39.exe.config
+E:\Scuola\Informatica\C#\P52N39\P52N39\bin\Debug\P52N39.exe
+E:\Scuola\Informatica\C#\P52N39\P52N39\bin\Debug\P52N39.pdb
+E:\Scuola\Informatica\C#\P52N39\P52N39\obj\Debug\P52N39.exe
+E:\Scuola\Informatica\C#\P52N39\P52N39\obj\Debug\P52N39.pdb
