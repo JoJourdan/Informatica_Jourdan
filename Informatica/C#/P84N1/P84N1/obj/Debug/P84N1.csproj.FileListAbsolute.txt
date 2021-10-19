@@ -1,5 +1,0 @@
-F:\Scuola\Informatica\C#\P84N1\P84N1\bin\Debug\P84N1.exe.config
-F:\Scuola\Informatica\C#\P84N1\P84N1\bin\Debug\P84N1.exe
-F:\Scuola\Informatica\C#\P84N1\P84N1\bin\Debug\P84N1.pdb
-F:\Scuola\Informatica\C#\P84N1\P84N1\obj\Debug\P84N1.exe
-F:\Scuola\Informatica\C#\P84N1\P84N1\obj\Debug\P84N1.pdb

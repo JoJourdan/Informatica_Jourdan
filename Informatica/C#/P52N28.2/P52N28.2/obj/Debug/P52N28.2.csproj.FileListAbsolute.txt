@@ -1,6 +1,0 @@
-C:\Users\d.jourdan.2256\source\repos\P52N28.2\P52N28.2\obj\Debug\P52N28.2.csprojAssemblyReference.cache
-C:\Users\d.jourdan.2256\source\repos\P52N28.2\P52N28.2\bin\Debug\P52N28.2.exe.config
-C:\Users\d.jourdan.2256\source\repos\P52N28.2\P52N28.2\bin\Debug\P52N28.2.exe
-C:\Users\d.jourdan.2256\source\repos\P52N28.2\P52N28.2\bin\Debug\P52N28.2.pdb
-C:\Users\d.jourdan.2256\source\repos\P52N28.2\P52N28.2\obj\Debug\P52N28.2.exe
-C:\Users\d.jourdan.2256\source\repos\P52N28.2\P52N28.2\obj\Debug\P52N28.2.pdb

@@ -1,5 +1,0 @@
-D:\Scuola\Informatica\C#\P52N23\P52N23\bin\Debug\P52N23.exe.config
-D:\Scuola\Informatica\C#\P52N23\P52N23\bin\Debug\P52N23.exe
-D:\Scuola\Informatica\C#\P52N23\P52N23\bin\Debug\P52N23.pdb
-D:\Scuola\Informatica\C#\P52N23\P52N23\obj\Debug\P52N23.exe
-D:\Scuola\Informatica\C#\P52N23\P52N23\obj\Debug\P52N23.pdb

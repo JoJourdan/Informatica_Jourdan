@@ -1,6 +1,0 @@
-C:\Users\ALE\source\repos\P52N26\P52N26\bin\Debug\P52N26.exe.config
-C:\Users\ALE\source\repos\P52N26\P52N26\bin\Debug\P52N26.exe
-C:\Users\ALE\source\repos\P52N26\P52N26\bin\Debug\P52N26.pdb
-C:\Users\ALE\source\repos\P52N26\P52N26\obj\Debug\P52N26.csproj.CoreCompileInputs.cache
-C:\Users\ALE\source\repos\P52N26\P52N26\obj\Debug\P52N26.exe
-C:\Users\ALE\source\repos\P52N26\P52N26\obj\Debug\P52N26.pdb

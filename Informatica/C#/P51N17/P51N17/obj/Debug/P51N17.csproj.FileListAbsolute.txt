@@ -1,6 +1,0 @@
-E:\Scuola\Informatica\C#\P51N17\P51N17\obj\Debug\P51N17.csprojAssemblyReference.cache
-E:\Scuola\Informatica\C#\P51N17\P51N17\bin\Debug\P51N17.exe.config
-E:\Scuola\Informatica\C#\P51N17\P51N17\bin\Debug\P51N17.exe
-E:\Scuola\Informatica\C#\P51N17\P51N17\bin\Debug\P51N17.pdb
-E:\Scuola\Informatica\C#\P51N17\P51N17\obj\Debug\P51N17.exe
-E:\Scuola\Informatica\C#\P51N17\P51N17\obj\Debug\P51N17.pdb

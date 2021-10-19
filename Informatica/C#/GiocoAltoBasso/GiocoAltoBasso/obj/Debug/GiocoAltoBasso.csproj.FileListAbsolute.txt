@@ -1,6 +1,0 @@
-D:\Scuola\Informatica\C#\GiocoAltoBasso\GiocoAltoBasso\obj\Debug\GiocoAltoBasso.csprojAssemblyReference.cache
-D:\Scuola\Informatica\C#\GiocoAltoBasso\GiocoAltoBasso\bin\Debug\GiocoAltoBasso.exe.config
-D:\Scuola\Informatica\C#\GiocoAltoBasso\GiocoAltoBasso\bin\Debug\GiocoAltoBasso.exe
-D:\Scuola\Informatica\C#\GiocoAltoBasso\GiocoAltoBasso\bin\Debug\GiocoAltoBasso.pdb
-D:\Scuola\Informatica\C#\GiocoAltoBasso\GiocoAltoBasso\obj\Debug\GiocoAltoBasso.exe
-D:\Scuola\Informatica\C#\GiocoAltoBasso\GiocoAltoBasso\obj\Debug\GiocoAltoBasso.pdb

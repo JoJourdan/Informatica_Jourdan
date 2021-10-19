@@ -1,5 +1,0 @@
-E:\Scuola\Informatica\C#\P63N3\P63N3\bin\Debug\P63N3.exe.config
-E:\Scuola\Informatica\C#\P63N3\P63N3\bin\Debug\P63N3.exe
-E:\Scuola\Informatica\C#\P63N3\P63N3\bin\Debug\P63N3.pdb
-E:\Scuola\Informatica\C#\P63N3\P63N3\obj\Debug\P63N3.exe
-E:\Scuola\Informatica\C#\P63N3\P63N3\obj\Debug\P63N3.pdb

@@ -1,6 +1,0 @@
-D:\Informatica\C#\P51N14\P51N14\bin\Debug\P51N14.exe.config
-D:\Informatica\C#\P51N14\P51N14\bin\Debug\P51N14.exe
-D:\Informatica\C#\P51N14\P51N14\bin\Debug\P51N14.pdb
-D:\Informatica\C#\P51N14\P51N14\obj\Debug\P51N14.csprojAssemblyReference.cache
-D:\Informatica\C#\P51N14\P51N14\obj\Debug\P51N14.exe
-D:\Informatica\C#\P51N14\P51N14\obj\Debug\P51N14.pdb

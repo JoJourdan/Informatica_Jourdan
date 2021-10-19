@@ -1,6 +1,0 @@
-E:\Scuola\Informatica\C#\Vettori1\Vettori1\bin\Debug\Vettori1.exe.config
-E:\Scuola\Informatica\C#\Vettori1\Vettori1\bin\Debug\Vettori1.exe
-E:\Scuola\Informatica\C#\Vettori1\Vettori1\bin\Debug\Vettori1.pdb
-E:\Scuola\Informatica\C#\Vettori1\Vettori1\obj\Debug\Vettori1.csprojAssemblyReference.cache
-E:\Scuola\Informatica\C#\Vettori1\Vettori1\obj\Debug\Vettori1.exe
-E:\Scuola\Informatica\C#\Vettori1\Vettori1\obj\Debug\Vettori1.pdb

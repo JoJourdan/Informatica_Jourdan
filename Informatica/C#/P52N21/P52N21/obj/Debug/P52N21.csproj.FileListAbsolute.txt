@@ -1,7 +1,0 @@
-C:\Users\ALE\source\repos\P52N21\P52N21\bin\Debug\P52N21.exe.config
-C:\Users\ALE\source\repos\P52N21\P52N21\bin\Debug\P52N21.exe
-C:\Users\ALE\source\repos\P52N21\P52N21\bin\Debug\P52N21.pdb
-C:\Users\ALE\source\repos\P52N21\P52N21\obj\Debug\P52N21.csproj.AssemblyReference.cache
-C:\Users\ALE\source\repos\P52N21\P52N21\obj\Debug\P52N21.csproj.CoreCompileInputs.cache
-C:\Users\ALE\source\repos\P52N21\P52N21\obj\Debug\P52N21.exe
-C:\Users\ALE\source\repos\P52N21\P52N21\obj\Debug\P52N21.pdb

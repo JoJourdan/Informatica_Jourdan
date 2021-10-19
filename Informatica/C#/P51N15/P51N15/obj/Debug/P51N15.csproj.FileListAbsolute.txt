@@ -1,5 +1,0 @@
-D:\Informatica\C#\P51N15\P51N15\bin\Debug\P51N15.exe.config
-D:\Informatica\C#\P51N15\P51N15\bin\Debug\P51N15.exe
-D:\Informatica\C#\P51N15\P51N15\bin\Debug\P51N15.pdb
-D:\Informatica\C#\P51N15\P51N15\obj\Debug\P51N15.exe
-D:\Informatica\C#\P51N15\P51N15\obj\Debug\P51N15.pdb

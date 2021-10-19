@@ -1,6 +1,0 @@
-C:\Users\alberto.barbero\source\repos\n12pag51_solution\n12pag51\bin\Debug\n12pag51.exe.config
-C:\Users\alberto.barbero\source\repos\n12pag51_solution\n12pag51\bin\Debug\n12pag51.exe
-C:\Users\alberto.barbero\source\repos\n12pag51_solution\n12pag51\bin\Debug\n12pag51.pdb
-C:\Users\alberto.barbero\source\repos\n12pag51_solution\n12pag51\obj\Debug\n12pag51.csprojAssemblyReference.cache
-C:\Users\alberto.barbero\source\repos\n12pag51_solution\n12pag51\obj\Debug\n12pag51.exe
-C:\Users\alberto.barbero\source\repos\n12pag51_solution\n12pag51\obj\Debug\n12pag51.pdb
