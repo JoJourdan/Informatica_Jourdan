@@ -1,0 +1,6 @@
+D:\Scuola\Informatica\C#\Sottoprogrammi1\Sottoprogrammi1\bin\Debug\Sottoprogrammi1.exe.config
+D:\Scuola\Informatica\C#\Sottoprogrammi1\Sottoprogrammi1\bin\Debug\Sottoprogrammi1.exe
+D:\Scuola\Informatica\C#\Sottoprogrammi1\Sottoprogrammi1\bin\Debug\Sottoprogrammi1.pdb
+D:\Scuola\Informatica\C#\Sottoprogrammi1\Sottoprogrammi1\obj\Debug\Sottoprogrammi1.csprojAssemblyReference.cache
+D:\Scuola\Informatica\C#\Sottoprogrammi1\Sottoprogrammi1\obj\Debug\Sottoprogrammi1.exe
+D:\Scuola\Informatica\C#\Sottoprogrammi1\Sottoprogrammi1\obj\Debug\Sottoprogrammi1.pdb

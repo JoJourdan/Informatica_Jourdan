@@ -1,0 +1,6 @@
+F:\Scuola\Informatica\C#\P65N5\P65N5\bin\Debug\P65N5.exe.config
+F:\Scuola\Informatica\C#\P65N5\P65N5\bin\Debug\P65N5.exe
+F:\Scuola\Informatica\C#\P65N5\P65N5\bin\Debug\P65N5.pdb
+F:\Scuola\Informatica\C#\P65N5\P65N5\obj\Debug\P65N5.csprojAssemblyReference.cache
+F:\Scuola\Informatica\C#\P65N5\P65N5\obj\Debug\P65N5.exe
+F:\Scuola\Informatica\C#\P65N5\P65N5\obj\Debug\P65N5.pdb

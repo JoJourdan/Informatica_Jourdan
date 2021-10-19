@@ -1,0 +1,6 @@
+D:\Scuola\Informatica\C#\P52N27\P52N27\obj\Debug\P52N27.csprojAssemblyReference.cache
+D:\Scuola\Informatica\C#\P52N27\P52N27\bin\Debug\P52N27.exe.config
+D:\Scuola\Informatica\C#\P52N27\P52N27\bin\Debug\P52N27.exe
+D:\Scuola\Informatica\C#\P52N27\P52N27\bin\Debug\P52N27.pdb
+D:\Scuola\Informatica\C#\P52N27\P52N27\obj\Debug\P52N27.exe
+D:\Scuola\Informatica\C#\P52N27\P52N27\obj\Debug\P52N27.pdb

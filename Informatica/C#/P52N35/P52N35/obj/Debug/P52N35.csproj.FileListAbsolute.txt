@@ -1,0 +1,6 @@
+E:\Scuola\Informatica\C#\P52N35\P52N35\bin\Debug\P52N35.exe.config
+E:\Scuola\Informatica\C#\P52N35\P52N35\bin\Debug\P52N35.exe
+E:\Scuola\Informatica\C#\P52N35\P52N35\bin\Debug\P52N35.pdb
+E:\Scuola\Informatica\C#\P52N35\P52N35\obj\Debug\P52N35.csprojAssemblyReference.cache
+E:\Scuola\Informatica\C#\P52N35\P52N35\obj\Debug\P52N35.exe
+E:\Scuola\Informatica\C#\P52N35\P52N35\obj\Debug\P52N35.pdb

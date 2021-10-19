@@ -1,0 +1,12 @@
+D:\Scuola\Informatica\C#\Menu_Vettori\Menu_Vettori\bin\Debug\Menu_Vettori.exe.config
+D:\Scuola\Informatica\C#\Menu_Vettori\Menu_Vettori\bin\Debug\Menu_Vettori.exe
+D:\Scuola\Informatica\C#\Menu_Vettori\Menu_Vettori\bin\Debug\Menu_Vettori.pdb
+D:\Scuola\Informatica\C#\Menu_Vettori\Menu_Vettori\obj\Debug\Menu_Vettori.csprojAssemblyReference.cache
+D:\Scuola\Informatica\C#\Menu_Vettori\Menu_Vettori\obj\Debug\Menu_Vettori.exe
+D:\Scuola\Informatica\C#\Menu_Vettori\Menu_Vettori\obj\Debug\Menu_Vettori.pdb
+E:\Scuola\Informatica\C#\Menu_Vettori\Menu_Vettori\bin\Debug\Menu_Vettori.exe.config
+E:\Scuola\Informatica\C#\Menu_Vettori\Menu_Vettori\bin\Debug\Menu_Vettori.exe
+E:\Scuola\Informatica\C#\Menu_Vettori\Menu_Vettori\bin\Debug\Menu_Vettori.pdb
+E:\Scuola\Informatica\C#\Menu_Vettori\Menu_Vettori\obj\Debug\Menu_Vettori.csprojAssemblyReference.cache
+E:\Scuola\Informatica\C#\Menu_Vettori\Menu_Vettori\obj\Debug\Menu_Vettori.exe
+E:\Scuola\Informatica\C#\Menu_Vettori\Menu_Vettori\obj\Debug\Menu_Vettori.pdb
